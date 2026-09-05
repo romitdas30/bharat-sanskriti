@@ -1,0 +1,17 @@
+{
+  "Rajasthan": {
+    "famous_culture": "Kathputli Puppetry & Kalbelia Dance",
+    "threats_facing": "Loss of traditional patronage, competition from modern digital entertainment, and economic hardship for artisan families.",
+    "preservation_strategies": "Digitizing performances, organizing heritage festivals, securing government stipends for puppet makers, and integrating cultural workshops into schools."
+  },
+  "Kerala": {
+    "famous_culture": "Koodiyattam (Sanskrit Theatre) & Theyyam Performance",
+    "threats_facing": "Aging master performers, lack of interest among younger generations, and commercialization altering traditional rituals.",
+    "preservation_strategies": "Establishing institutional academies, offering youth scholarships, documentation of ritual scripts, and sustainable cultural tourism."
+  },
+  "Assam": {
+    "famous_culture": "Bihu Dance & Majuli Mask Making",
+    "threats_facing": "Monsoon flooding eroding Majuli river island, lack of raw materials for traditional masks, and globalization.",
+    "preservation_strategies": "Building flood-resistant artisan centers, creating e-commerce platforms for mask sales, and global cultural exchange programs."
+  }
+}
